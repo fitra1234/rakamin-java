@@ -23,7 +23,7 @@ public class Main {
        boolean apakahSama = (x == y);
        boolean apakahLebihBesar = (x > y);
        System.out.println("Hasil penjumlahan: " + hasilPenjumlahan);
-       System.out.println("Hasil perkalian: " + hasilPerkalian);
+       System.out.println("Hasil perkaliann: " + hasilPerkalian);
        System.out.println("Apakah x sama dengan y? " + apakahSama);
        System.out.println("Apakah x lebih besar dari y? " + apakahLebihBesar);
     }
